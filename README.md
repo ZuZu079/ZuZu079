@@ -102,15 +102,6 @@ English 🇬🇧
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<!-- <details> -->
-<div>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br>
-   <img alt="ZuZu079 github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ZuZu079&theme=github-compact" />
-  <br/>
-</div>
-<!-- </details>-->
-
 ![divider](./images/divider.gif)
 
 <p align="center">
