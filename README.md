@@ -96,8 +96,8 @@ English 🇬🇧
 ### ***📊 GitHub Profile Stats***
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thuongcodelife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thuongcodelife&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZuZu079&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZuZu079&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -106,7 +106,7 @@ English 🇬🇧
 <div>
   <summary>⚡ Recent GitHub Activity</summary>
   <br>
-   <img alt="Thuongcodelife github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Thuongcodelife&theme=github-compact" />
+   <img alt="ZuZu079 github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ZuZu079&theme=github-compact" />
   <br/>
 </div>
 <!-- </details>-->
@@ -124,7 +124,7 @@ English 🇬🇧
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=Thuongcodelife&label=Profile+Views" alt="Thuongcodelife" />
+      <img src="https://komarev.com/ghpvc/?username=ZuZu079&label=Profile+Views" alt="ZuZu079" />
   </p>
 </p>
 
